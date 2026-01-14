@@ -1,6 +1,6 @@
 # Hi there, I'm Khang! 👋
 
-### 🚀 Senior Software Engineer & Team Lead
+### 🚀 Middle Software Engineer & Team Lead
 I am a Software Engineering graduate from the **University of Information Technology (UIT)** with **3 years of professional experience** in building scalable Web and Mobile applications. Beyond coding, I specialize in leading development teams, architecting cross-platform solutions, and bridging the gap between design and high-performance code.
 
 ---

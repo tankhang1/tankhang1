@@ -20,12 +20,6 @@ I am a Software Engineering graduate from the **University of Information Techno
 
 ---
 
-### 📊 Performance & Contributions:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tankhang1&theme=dark&hide_border=false&show_icons=true" alt="Khang's Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankhang1&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180" />
-</p>
-
 > **Team Lead Mindset:** *"Quality is not an act, it is a habit."* I focus on clean code, modular architecture, and empowering my team to deliver excellence.
 
 ---
